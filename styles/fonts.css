@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700');
+
+
+@font-face {
+    font-family: 'toonish-webfont';
+    src: url('../fonts/toonish-webfont.eot'),
+         url('../fonts/toonish-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/toonish-webfont.woff') format('woff'),
+         url('../fonts/toonish-webfont.woff2') format('woff2'),
+         url('../fonts/toonish-webfont.otf') format('opentype'),
+         url('../fonts/toonish-webfont.ttf') format('truetype'),
+         url('../fonts/toonish-webfont.svg#toonish-webfont') format('svg');
+    }
+
+
